@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+         <modules>
+                <Connectgento_SouthAfricanCities>
+                        <active>true</active>
+                        <codePool>community</codePool>
+                </Connectgento_SouthAfricanCities>
+         </modules>
+</config>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>ConnectgentoSouthAfricanCities</name>
+    <version>0.1.8</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">Open Software Licence (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Adds all the cities, towns and their postal codes to your Magento database.</summary>
+    <description>Adds all the cities, towns and their postal codes to your Magento database. Allows the store to auto select the customers City, Postal Code and Province.</description>
+    <notes>Added more cities to the database.</notes>
+    <authors><author><name>Guilio Del Fava</name><user>auto-converted</user><email>guilio@connectmeisp.co.za</email></author></authors>
+    <date>2010-04-12</date>
+    <time>09:46:57</time>
+    <contents><target name="magecommunity"><dir name="Connectgento"><dir name="SouthAfricanCities"><dir name="etc"><file name="config.xml" hash="23d31a54171425649a4cedab0ad0fd36"/></dir><dir name="sql"><dir name="southafricancities_setup"><file name="mysql4-install-0.1.0.php" hash="3f74671c179c95b5534994563e6e1c3e"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Connectgento_SouthAfricanCities.xml" hash="91bdfe1aec641259533c463517762079"/></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>
